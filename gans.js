@@ -1325,7 +1325,7 @@ let search = await yts(text)
 url = search.videos[0].url
 let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
 eek = await getBuffer(anu.thumbnail)
-owned = '6285798145596@s.whatsapp.net'
+owned = '6281328938767@s.whatsapp.net'
 ngen = `
 Title : ${anu.title}
 Ext : Search
@@ -1371,7 +1371,7 @@ orderMessage: {
 itemCount: 99999999,
 status: 1,
 surface: 1,
-message: `Menuju idul Fitri\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`,
+message: `Iruzruzz\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`,
 orderTitle: '999999999', 
 sellerJid: `0@s.whatsapp.net` 
 }
@@ -1761,7 +1761,7 @@ jpegThumbnail: thumbb,
 caption: `Nih Kak @${sender.split("@")[0]}`,
 fileLength: "999999999999",
 mentions: [sender],
-footer: `© Created By GᴀɴsBOTᴢ`,
+footer: `© Created By IruzBot`,
 buttons: buttoons,
 headerType: 4,
 }
@@ -1785,7 +1785,7 @@ jpegThumbnail: thumbb,
 caption: `Nih Kak @${sender.split("@")[0]}`,
 fileLength: "999999999999",
 mentions: [sender],
-footer: `© Created By GᴀɴsBOTᴢ`,
+footer: `© Created By IruzBot`,
 buttons: buttoons,
 headerType: 4,
 contextInfo: {
@@ -2432,8 +2432,8 @@ title:`${namabot} By ${author}`,
 body:`© Created By ${namabot}`,
 thumbnail: thumb,
 mediaType:2,
-mediaUrl: "https://youtu.be/C1HBidN2XZk",
-sourceUrl: "https://youtu.be/C1HBidN2XZk"
+mediaUrl: "wa.me//6281328938767",
+sourceUrl: "wa.me//6281328938767"
 }}
 }
 gans.sendMessage(m.chat, jadinya, {quoted:m})
@@ -2459,8 +2459,8 @@ title:`${namabot} By ${author}`,
 body:`© Created By ${namabot}`,
 thumbnail: thumb,
 mediaType:2,
-mediaUrl: "https://youtu.be/C1HBidN2XZk",
-sourceUrl: "https://youtu.be/C1HBidN2XZk"
+mediaUrl: "wa.me//6281328938767",
+sourceUrl: "wa.me//6281328938767"
 }}
 }
 /*const buttons = [
@@ -3272,7 +3272,7 @@ const buttons = [
 { buttonId: '.menu', buttonText: { displayText: 'MENU' }, type: 1 }
 ]
 const buttonMessage = {
-document: { url: "https://wa.me/6282299284898" },
+document: { url: "https://wa.me/6281328938767" },
 mimetype: global.docx,
 fileName: `${runtime(process.uptime())}`,
 fileLength: 88808964843634667969,
@@ -3371,7 +3371,7 @@ previewType: 'PDF',
 sourceUrl: urlnya,
 thumbnail: fs.readFileSync(`./thumbnail.jpg`),
 thumbnailUrl: urlnya,
-title: `Menuju idul Fitri\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`}}}*/
+title: `Iruzruzz\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`}}}*/
 gans.sendMessage(m.chat, {
 image: { url: thumb },
 caption: str,
@@ -3393,7 +3393,7 @@ previewType: 'PDF',
 sourceUrl: urlnya,
 thumbnail: fs.readFileSync(`./thumbnail.jpg`),
 thumbnailUrl: urlnya,
-title: `Menuju idul Fitri\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`}}}, { quoted: m })
+title: `Iruzruzz\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`}}}, { quoted: m })
 }
 break
 case 'allmenu':
@@ -3411,7 +3411,7 @@ mentionedJid:[creator, sender],
 "externalAdReply": {
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
-"title": `Menuju idul Fitri\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`,
+"title": `Iruzruz\n${harinya}Hari ${jamnya}Jam ${menitnya}Menit ${detiknya}Detik`,
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": thumb,

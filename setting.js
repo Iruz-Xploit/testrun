@@ -9,17 +9,17 @@ require("./lib/vn")
 require('./scraper/tiktok')
 
 global.keyai = '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'
-global.urlnya = `https://chat.whatsapp.com/GJPWMLj7Q2ZAzoDKTaTYd6`
+global.urlnya = `https://chat.whatsapp.com/JD0hT9pUOErDklAMCrXsnU`
 global.docx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-global.channel = `https://youtube.com/@survivofc`
+global.channel = `https://chat.whatsapp.com/JD0hT9pUOErDklAMCrXsnU`
 
-global.creator = "6282299284898@s.whatsapp.net"
-global.premiun = '6282299284898'
-global.owner = ["6282299284898"]
-global.ownerName = 'Deffri Gans'
-global.wm = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
-global.namabot = 'ᏀᎪΝՏᏴϴͲᏃ'
-global.packname = 'ᏀᎪΝՏᏴϴͲᏃ'
+global.creator = "6281328938767@s.whatsapp.net"
+global.premiun = '6281328938767'
+global.owner = ["6281328938767"]
+global.ownerName = 'Iruz'
+global.wm = 'Ruz'
+global.namabot = 'IruzBot'
+global.packname = 'IruzBot'
 global.sessionName = 'Gans'
 global.author = '🗿'
 global.prefa = ['','!','.','🐦','🐤','🗿']

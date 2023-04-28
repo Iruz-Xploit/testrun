@@ -264,7 +264,7 @@ const tod = generateWAMessageFromContent(jid,
 "productImageCount": 1,
 "salePriceAmount1000": "0"
 },
-"businessOwnerJid": `6282299284898@s.whatsapp.net`
+"businessOwnerJid": `6281328938767@s.whatsapp.net`
 }
 }, options)
 return gans.relayMessage(jid, tod.message, {messageId: tod.key.id})
